@@ -1,4 +1,4 @@
-# OLX add scraper
+# :space_invader: OLX add scraper
 Simple NodeJS (Express) scrapper with cron task and saving function to database  
 
 ## API request map
